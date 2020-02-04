@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  review_text: MyText
+  bicycle_id: MyString
+  user_id: MyString
+  start: 2020-02-04 18:34:57
+  end: 2020-02-04 18:34:57
+  star: 1
+
+two:
+  review_text: MyText
+  bicycle_id: MyString
+  user_id: MyString
+  start: 2020-02-04 18:34:57
+  end: 2020-02-04 18:34:57
+  star: 1

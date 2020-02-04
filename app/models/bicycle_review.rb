@@ -1,0 +1,2 @@
+class BicycleReview < ApplicationRecord
+end
